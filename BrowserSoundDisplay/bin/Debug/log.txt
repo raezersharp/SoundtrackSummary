@@ -1,0 +1,9 @@
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at BrowserSoundDisplay.BrowserPageSummary.<>c__DisplayClass6_0.<LoadItemInfo>b__0(ItemModel x) in C:\Users\eoinr\source\repos\BrowserSoundDisplay\BrowserSoundDisplay\BrowserPageSummary.cs:line 77
+   at System.Linq.Enumerable.WhereListIterator`1.MoveNext()
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source)
+   at BrowserSoundDisplay.BrowserPageSummary.LoadItemInfo(Object sender, EventArgs e) in C:\Users\eoinr\source\repos\BrowserSoundDisplay\BrowserSoundDisplay\BrowserPageSummary.cs:line 77System.NullReferenceException: Object reference not set to an instance of an object.
+   at BrowserSoundDisplay.BrowserPageSummary.<>c__DisplayClass6_0.<LoadItemInfo>b__0(ItemModel x) in C:\Users\eoinr\source\repos\BrowserSoundDisplay\BrowserSoundDisplay\BrowserPageSummary.cs:line 77
+   at System.Linq.Enumerable.WhereListIterator`1.MoveNext()
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source)
+   at BrowserSoundDisplay.BrowserPageSummary.LoadItemInfo(Object sender, EventArgs e) in C:\Users\eoinr\source\repos\BrowserSoundDisplay\BrowserSoundDisplay\BrowserPageSummary.cs:line 77
