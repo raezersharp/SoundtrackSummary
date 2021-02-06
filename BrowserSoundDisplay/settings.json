@@ -1,0 +1,312 @@
+{
+  "BackgroundColour": "#5cdb95",
+  "TextFont": "Verdana",
+  "TextColour": "#0d3360",
+  "TextSize": "32",
+  "MusicBrowser": "chrome", // the browser this application will pull from N.B. THIS SHOULD BE A DIFFERENT BROWSER TO THE ONE YOU USE FOR OTHER STUFF, check the README for more info.
+  //Other possiblilities below
+  //"chrome"
+  //"firefox"
+  //"iexplore"
+  //"safari"
+  //"opera"
+  //"edge"
+
+  "PlaylistInfo": [
+    //{
+    //  "Url": "https://www.youtube.com/test",
+    //  "DisplayName": "test name", -- what the text will display on the screen
+    //  "ImageName" : "filename.png" -- filename of the image you want to display with this url
+    //},
+    {
+      "Url": "https://www.youtube.com/watch?v=Jm932Sqwf5E",
+      "DisplayName": "Doom 2016",
+      "ImageName": "Doom-Emblem.jpg"
+    },
+    {
+      "Url": "https://www.youtube.com/watch?v=JIT9aUHbcaI",
+      "DisplayName": "Dark Souls 3",
+      "ImageName": "darksouls3.png"
+    },
+    {
+      "Url": "https://www.youtube.com/watch?v=GZhoE9S5YbQ",
+      "DisplayName": "Super Meat Boy",
+      "ImageName": "Meatysticker2.png"
+    },
+    {
+      "Url": "https://www.youtube.com/watch?v=2nsbio5UrKc",
+      "DisplayName": "Crypt of the NecroDancer",
+      "ImageName": "CoH_Cadence.png"
+    },
+    {
+      "Url": "https://www.youtube.com/watch?v=3GRKJ87S5cI",
+      "DisplayName": "Hades",
+      "ImageName": "Cerberus.png"
+    },
+    {
+      "Url": "https://www.youtube.com/watch?v=-zA1jRmAYfU",
+      "DisplayName": "Transistor",
+      "ImageName": "Transistor.png"
+    },
+    {
+      "Url": "https://www.youtube.com/watch?v=0HbnqjGirFg",
+      "DisplayName": "Hollow Knight",
+      "ImageName": "HK_Knight.png"
+    },
+    {
+      "Url": "https://www.youtube.com/watch?v=eCbyqm9jcBA",
+      "DisplayName": "Ori and the Will of the Wisps",
+      "ImageName": "Switch_OriWW_description-char.png"
+    },
+    {
+      "Url": "https://www.youtube.com/watch?v=s2ng_QEzD_4",
+      "DisplayName": "Horizon Zero Dawn",
+      "ImageName": "HZD.png"
+    },
+    {
+      "Url": "https://www.youtube.com/watch?v=AX6h8_Y_ot4",
+      "DisplayName": "The Binding of Isaac",
+      "ImageName": "BOI.png"
+    },
+    {
+      "Url": "https://www.youtube.com/watch?v=RGA4PilHdr0",
+      "DisplayName": "Jet Set Radio",
+      "ImageName": "JSR.png"
+    },
+    {
+      "Url": "https://www.youtube.com/watch?v=geAEI6rnKSY",
+      "DisplayName": "The World Ends With You",
+      "ImageName": "Neku_Sakuraba.png"
+    },
+    {
+      "Url": "https://www.youtube.com/watch?v=uD4MbqmOLAc",
+      "DisplayName": "Persona 5",
+      "ImageName": "Persona5.png"
+    },
+    {
+      "Url": "https://www.youtube.com/watch?v=lwLoK1X59Ro",
+      "DisplayName": "Metal Gear Revengence",
+      "ImageName": "MGR.jpg"
+    },
+    {
+      "Url": "https://www.youtube.com/watch?v=vdNpaJwLiZA",
+      "DisplayName": "Shovel Knight",
+      "ImageName": "Shovel_Knight_Treasure_Trove.png"
+    },
+    {
+      "Url": "https://www.youtube.com/watch?v=oKD-MVfC9Ag",
+      "DisplayName": "Hotline Miami",
+      "ImageName": "HM.jpg"
+    },
+    {
+      "Url": "https://www.youtube.com/watch?v=5-K8R1hDG9E",
+      "DisplayName": "Grim Fandango",
+      "ImageName": "GrimFandango.png"
+    },
+    {
+      "Url": "https://www.youtube.com/watch?v=lDC4X8Dgxr4",
+      "DisplayName": "Mega Man 2",
+      "ImageName": "MegaMan2.png"
+    },
+    {
+      "Url": "https://www.youtube.com/watch?v=0Ghd3tvsNAs",
+      "DisplayName": "CastleVania Symphony of the Night",
+      "ImageName": "CSN.png"
+    },
+    {
+      "Url": "https://www.youtube.com/watch?v=0gEkNVq1ct0",
+      "DisplayName": "DOOM",
+      "ImageName": "Doom.png"
+    },
+    {
+      "Url": "https://www.youtube.com/watch?v=M3hFN8UrBPw",
+      "DisplayName": "Journey",
+      "ImageName": "Journey.png"
+    },
+    {
+      "Url": "https://www.youtube.com/watch?v=CrF3WPi_7uI",
+      "DisplayName": "Streets of Rage 2",
+      "ImageName": "SR2.png"
+    },
+    {
+      "Url": "https://www.youtube.com/watch?v=57jIlw6HmCE",
+      "DisplayName": "Shadow of the Colossus",
+      "ImageName": "SoTC.png"
+    },
+    {
+      "Url": "https://www.youtube.com/watch?v=tQF4Z30E-JI",
+      "DisplayName": "Final Fantasy VII",
+      "ImageName": "FF7.png"
+    },
+    {
+      "Url": "https://www.youtube.com/watch?v=QAA6hq9RL-4",
+      "DisplayName": "Katamari Damacy",
+      "ImageName": "KD.png"
+    },
+    {
+      "Url": "https://www.youtube.com/watch?v=J5mZ7AkTA0A",
+      "DisplayName": "Chrono Cross",
+      "ImageName": "CC.png"
+    },
+    {
+      "Url": "https://www.youtube.com/watch?v=i08gE5EVKmM",
+      "DisplayName": "Spyro",
+      "ImageName": "Spyro_the_dragon.png"
+    },
+    {
+      "Url": "https://www.youtube.com/watch?v=4gTDiAZQZxA",
+      "DisplayName": "Monument Valley",
+      "ImageName": "MonumentValley.png"
+    },
+    {
+      "Url": "https://www.youtube.com/watch?v=fRWs9J8kCxA",
+      "DisplayName": "Ocarina of Time",
+      "ImageName": "OcarinaOfTime.png"
+    },
+    {
+      "Url": "https://www.youtube.com/watch?v=_4EjGXRDOH0",
+      "DisplayName": "Donkey Kong Country",
+      "ImageName": "DKC.png"
+    },
+    {
+      "Url": "https://www.youtube.com/watch?v=dIKdZ2827rM",
+      "DisplayName": "Donkey Kong Country 2",
+      "ImageName": "DKC2.png"
+    },
+    {
+      "Url": "https://www.youtube.com/watch?v=aQeIYVM3YBM",
+      "DisplayName": "Skyrim",
+      "ImageName": "Skyrim.png"
+    },
+    {
+      "Url": "https://www.youtube.com/watch?v=SpqSdORmCX4",
+      "DisplayName": "Oblivion",
+      "ImageName": "Oblivion_O.png"
+    },
+    {
+      "Url": "https://www.youtube.com/watch?v=xULTMMgwLuo",
+      "DisplayName": "Morrowind",
+      "ImageName": "Morrowing.png"
+    },
+    {
+      "Url": "https://www.youtube.com/watch?v=LKPo66hzH5g",
+      "DisplayName": "Wipeout",
+      "ImageName": "Wipeout.png"
+    },
+    {
+      "Url": "https://www.youtube.com/watch?v=HUpCPpdjh1E",
+      "DisplayName": "Sonic Adventure",
+      "ImageName": "SonicAdventure.png"
+    },
+    {
+      "Url": "https://www.youtube.com/watch?v=sfATf-aMvbA",
+      "DisplayName": "Stardew Valley",
+      "ImageName": "SDV.png"
+    },
+    {
+      "Url": "https://www.youtube.com/watch?v=2oNYqCzPsz8",
+      "DisplayName": "Polybridge",
+      "ImageName": "polybridge.png"
+    },
+    {
+      "Url": "https://www.youtube.com/watch?v=A991j67skIs",
+      "DisplayName": "Final Fantasy VIII",
+      "ImageName": "FF8.png"
+    },
+    {
+      "Url": "https://www.youtube.com/watch?v=S1arzwnXqyo",
+      "DisplayName": "Breath of the Wild",
+      "ImageName": "BOTW.png"
+    },
+    {
+      "Url": "https://www.youtube.com/watch?v=AQm5wxT7BGM",
+      "DisplayName": "Wind Waker",
+      "ImageName": "WindWaker.png"
+    },
+    {
+      "Url": "https://www.youtube.com/watch?v=Dg0IjOzopYU",
+      "DisplayName": "Minecraft",
+      "ImageName": "Minecraft.png"
+    },
+    {
+      "Url": "https://www.youtube.com/watch?v=2JsYHpiH2xs",
+      "DisplayName": "Celeste",
+      "ImageName": "Madeline.png"
+    },
+    {
+      "Url": "https://www.youtube.com/watch?v=eL6uzgw_ifg",
+      "DisplayName": "Cuphead",
+      "ImageName": "Cuphead.png"
+    },
+    {
+      "Url": "https://www.youtube.com/watch?v=bWBlfSRlNC4",
+      "DisplayName": "Sonic Mania",
+      "ImageName": "SonicMania.png"
+    },
+    {
+      "Url": "https://www.youtube.com/watch?v=rOmHpI0MMKE",
+      "DisplayName": "God of War",
+      "ImageName": "GOW.png"
+    },
+    {
+      "Url": "https://www.youtube.com/watch?v=uXOxWgGZBKI",
+      "DisplayName": "Spelunky",
+      "ImageName": "Spefunky.png"
+    },
+    {
+      "Url": "https://www.youtube.com/watch?v=tGeYmC9bK68",
+      "DisplayName": "Bloodborne",
+      "ImageName": "Bloodborne.png"
+    },
+    {
+      "Url": "https://www.youtube.com/watch?v=s7hMIHpQGGo",
+      "DisplayName": "Mario Galaxy",
+      "ImageName": "MarioGalaxy.png"
+    },
+    {
+      "Url": "https://www.youtube.com/watch?v=IvcAA7WNEo4",
+      "DisplayName": "Mario Galaxy 2",
+      "ImageName": "MarioGalaxy2.png"
+    },
+    {
+      "Url": "https://www.youtube.com/watch?v=RJhTNfZ56-g",
+      "DisplayName": "Ecco the Dolphin",
+      "ImageName": "Ecco.png"
+    },
+    {
+      "Url": "https://www.youtube.com/watch?v=cVEVc48JRJQ",
+      "DisplayName": "Super Mario 64",
+      "ImageName": "SuperMario64.png"
+    },
+    {
+      "Url": "https://www.youtube.com/watch?v=beBO4F879_g",
+      "DisplayName": "DragonQuest VIII",
+      "ImageName": "DragonQuestVIII.png"
+    },
+    {
+      "Url": "https://www.youtube.com/watch?v=tBWl9p0fH28",
+      "DisplayName": "Mega Man X",
+      "ImageName": "megamanx.png"
+    },
+    {
+      "Url": "https://www.youtube.com/watch?v=oLA0vB9LCTM",
+      "DisplayName": "Bastion",
+      "ImageName": "Bastion.png"
+    },
+    {
+      "Url": "https://www.youtube.com/watch?v=PDs3yi_TRuY",
+      "DisplayName": "Crash Bandicoot",
+      "ImageName": "crash.png"
+    },
+    {
+      "Url": "https://www.youtube.com/watch?v=JSpK8LxBKqQ",
+      "DisplayName": "Halo",
+      "ImageName": "Halo.png"
+    },
+    {
+      "Url": "https://www.youtube.com/watch?v=hXfos-mAMMA",
+      "DisplayName": "Fez",
+      "ImageName": "Fez.png"
+    }
+  ]
+}

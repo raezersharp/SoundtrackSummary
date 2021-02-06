@@ -1,0 +1,16 @@
+C:\Users\eoinr\source\repos\BrowserSoundDisplay\BrowserSoundDisplay\bin\Debug\BrowserSoundDisplay.exe.config
+C:\Users\eoinr\source\repos\BrowserSoundDisplay\BrowserSoundDisplay\bin\Debug\BrowserSoundDisplay.exe
+C:\Users\eoinr\source\repos\BrowserSoundDisplay\BrowserSoundDisplay\bin\Debug\BrowserSoundDisplay.pdb
+C:\Users\eoinr\source\repos\BrowserSoundDisplay\BrowserSoundDisplay\obj\Debug\BrowserSoundDisplay.Properties.Resources.resources
+C:\Users\eoinr\source\repos\BrowserSoundDisplay\BrowserSoundDisplay\obj\Debug\BrowserSoundDisplay.csproj.GenerateResource.cache
+C:\Users\eoinr\source\repos\BrowserSoundDisplay\BrowserSoundDisplay\obj\Debug\BrowserSoundDisplay.exe
+C:\Users\eoinr\source\repos\BrowserSoundDisplay\BrowserSoundDisplay\obj\Debug\BrowserSoundDisplay.pdb
+C:\Users\eoinr\source\repos\BrowserSoundDisplay\BrowserSoundDisplay\bin\Debug\Newtonsoft.Json.dll
+C:\Users\eoinr\source\repos\BrowserSoundDisplay\BrowserSoundDisplay\bin\Debug\Newtonsoft.Json.xml
+C:\Users\eoinr\source\repos\BrowserSoundDisplay\BrowserSoundDisplay\obj\Debug\BrowserSoundDisplay.csproj.CopyComplete
+C:\Users\eoinr\source\repos\BrowserSoundDisplay\BrowserSoundDisplay\bin\Debug\settings.json
+C:\Users\eoinr\source\repos\BrowserSoundDisplay\BrowserSoundDisplay\bin\Debug\Images\defaultImage.png
+C:\Users\eoinr\source\repos\BrowserSoundDisplay\BrowserSoundDisplay\obj\Debug\BrowserSoundDisplay.BrowserPageSummary.resources
+C:\Users\eoinr\source\repos\BrowserSoundDisplay\BrowserSoundDisplay\bin\Debug\Images\Doom-Emblem.jpg
+C:\Users\eoinr\source\repos\BrowserSoundDisplay\BrowserSoundDisplay\obj\Debug\BrowserSoundDisplay.csprojAssemblyReference.cache
+C:\Users\eoinr\source\repos\BrowserSoundDisplay\BrowserSoundDisplay\bin\Debug\Icon.ico

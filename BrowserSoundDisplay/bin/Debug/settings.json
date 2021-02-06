@@ -1,0 +1,29 @@
+{
+  "BackgroundColour": "#FFFFFF",
+  "TextFont": "Copperplate Gothic",
+  "TextColour": "#a9a9a9",
+  "TextSize" :  "32",
+  "MusicBrowser": "chrome", // the browser this application will pull from N.B. THIS SHOULD BE A DIFFERENT BROWSER TO THE ONE YOU USE FOR OTHER STUFF, check the README for more info.
+  //Other possiblilities below
+  //"chrome"
+  //"firefox"
+  //"iexplore"
+  //"safari"
+  //"opera"
+  //"edge"
+
+  "PlaylistInfo": [
+
+    //"youtube.com/test" : {
+    //  "DisplayName": "test name", -- what the text will display on the screen
+    //  "ImageName" : "filename.png" -- filename of the image you want to display with this song
+    //},
+    {
+      "Url": "https://www.youtube.com/watch?v=Jm932Sqwf5E",
+      "DisplayName": "Doom 2016 this is a long enough string to count",
+      "ImageName": "Doom-Emblem.jpg"
+    }
+  ]
+
+
+}
