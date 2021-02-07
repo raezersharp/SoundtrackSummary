@@ -16,6 +16,13 @@ This application reads from the <u>active tab in the active window</u> in your s
     If it matches, it will take the Display Name and Image file and display them in the application<br>
     If it doesn't match, it will take the title of the webpage you are on as the Display Name, and use the defaultImage.png as the image shown in the application<br>
     
+It is important to note that because the application pulls from the active tab in the active browser, if you are navigating around a browser of the same type (chrome/edge etc) while your playlist is playing the app will update its information based on your open tab. 
+
+So to avoid updating the application info with the information from other websites that arent your currently active playlist, make sure that the browser you are using to play your music is different to the one you will be using to do other stuff on (twitch/reddit etc).
+
+The default browser this application pulls from is Chrome.
+You can change the default browser this application pulls from in the <i>settings.json</i> file.
+    
 ## Adding Your Own Playlist
  
  You can add your own playlists, images and titles to the application as well. You do this by editing the settings.json file and appending your information to the PlaylistInfo array
